@@ -74,35 +74,12 @@ pytest tests/
 - User-friendly interface for entering text and viewing sentiment.
 - Runs on http://localhost:8501
 
-![Frontend Example](images/frontend.PNG)
+![Frontend Example 1](images/frontend.PNG)
+
+![Frontend Example 2](images/frontend1.PNG)
 
 ## 📦 Project Structure
 
 ```
-sentiment-analyzer-mistral/
-│
-├── backend/
-│   └── main.py
-│
-├── frontend/
-│   └── app.py
-│
-├── images/
-│   ├── backend.png
-│   └── frontend.png
-│
-├── tests/
-│   ├── test_backend.py
-│   └── test_frontend.py
-│
-├── requirements.txt
-├── Dockerfile
-├── start.sh
-└── README.md
+
 ```
-
-## 💡 Tips
-
-- Always start Ollama before running the app or Docker container.
-- The backend and frontend will both be available as long as the model is downloaded and Ollama is running.
-- For best results, keep your Ollama and model versions up to date!
