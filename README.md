@@ -67,10 +67,14 @@ pytest tests/
 - Runs on http://localhost:8000
 - Endpoint: `/analyze/`
 
+![Backend Example](images/backend.PNG)
+
 ## 🎨 Frontend (Streamlit)
 
 - User-friendly interface for entering text and viewing sentiment.
 - Runs on http://localhost:8501
+
+![Frontend Example](images/frontend.PNG)
 
 ## 📦 Project Structure
 
